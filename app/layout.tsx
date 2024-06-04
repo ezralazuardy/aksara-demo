@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 import "@/app/globals.css";
 
 const font = DM_Sans({
@@ -23,6 +24,7 @@ export default function RootLayout({
         className={`flex flex-col min-h-screen bg-gray-50 ${font.className}`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
