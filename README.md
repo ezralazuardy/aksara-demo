@@ -9,6 +9,8 @@ This is the official demonstration for Aksara. It contains information about the
 
 🔗 https://aksara-demo.lazuardy.tech
 
+<img width="1439" alt="image" src="https://github.com/ezralazuardy/aksara-demo/assets/24422019/b30503e3-667a-480c-b6df-cfbb64d7db3b"/>
+
 <br/>
 
 <span></span>
