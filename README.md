@@ -13,7 +13,7 @@ This is the official demonstration for Aksara. It contains information about the
 
 <span></span>
 
-Aksara is a simple translator for Javanese script. It is designed to help developers to convert Latin script to Javanese script easily. Aksara is built with pure TypeScript, and it is available as an NPM package.
+Aksara is a simple translator for Javanese Script (Aksara Jawa). It is designed to help developers to convert Latin script to Javanese script easily. Aksara is built with pure TypeScript, and it is available as an NPM package.
 
 > Check out Aksara Repository on [GitHub](https://github.com/ezralazuardy/aksara).
 
